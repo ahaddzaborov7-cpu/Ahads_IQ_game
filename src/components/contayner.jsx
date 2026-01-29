@@ -17,7 +17,7 @@ const Contayner = ({ url }) => {
     setEmage(true);
     setTimeout(() => {
       setEmage(false);
-    }, 2000);
+    }, 3000);
   };
 
   return (
@@ -89,7 +89,7 @@ const Contayner = ({ url }) => {
             />
             <input
               className="shadow-lg rounded-xl px-10 py-2 dark:text-white"
-              type="tel"
+              type="text"
               placeholder={t("contayner.commentPlaceholder")}
               required
             />
