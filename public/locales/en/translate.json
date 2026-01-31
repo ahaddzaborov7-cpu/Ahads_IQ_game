@@ -2,6 +2,8 @@
   "header": {
     "navHome": "Home"
   },
+  "startcoment":"Tap to start!"
+,
   "footer": {
     "logoAlt": "Hotel logo",
     "nav": {

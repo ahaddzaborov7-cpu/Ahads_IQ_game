@@ -207,7 +207,6 @@ export const questions = [
   ],
   tId:0
 },
-// .................................
 {
   question:{ru:"Что такое атмосферное давление?",tj:"Фишори атмосфера чист?",en:"What is atmospheric pressure?",ko:"대기압이란 무엇입니까?"},
   options:[{ru:"Температура воздуха",tj:"Ҳарорати ҳаво",en:"Air temperature",ko:"공기 온도"},{ru:"Вес воздуха",tj:"Вазни ҳаво",en:"Weight of air",ko:"공기의 무게"},{ru:"Влажность",tj:"Намнокӣ",en:"Humidity",ko:"습도"},{ru:"Скорость ветра",tj:"Суръати бод",en:"Wind speed",ko:"풍속"}
