@@ -9,7 +9,7 @@ i18next
   .use(initReactI18next)
   .init({
     ns: ["translate"],
-    fallbackLng: "tj", 
+    fallbackLng: "ru", 
     debug: true,
 
     detection: {

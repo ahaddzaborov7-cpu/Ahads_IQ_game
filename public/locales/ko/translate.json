@@ -1,0 +1,23 @@
+{
+  "header": {
+    "navHome": "홈"
+  },
+  "footer": {
+    "logoAlt": "호텔 로고",
+    "nav": {
+      "title": "네비게이션",
+      "home": "홈",
+      "about": "호텔 소개",
+      "benefits": "장점",
+      "rooms": "객실",
+      "reviews": "후기"
+    },
+    "contacts": {
+      "title": "연락처",
+      "addressLabel": "주소:",
+      "address": "카이다로프스카야 거리 37, 치타",
+      "phone1": "+7 (3022) 217856",
+      "phone2": "+7 929 483-02-55"
+    }
+  }
+}

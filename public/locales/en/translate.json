@@ -1,132 +1,6 @@
 {
   "header": {
-    "navHome": "Home",
-    "navAboutHotel": "About the hotel",
-    "navBenefits": "Benefits",
-    "navRooms": "Rooms",
-    "navReviews": "Reviews",
-    "callBack": "Request a call back",
-    "addressLabel": "Address:",
-    "addressValue": "Kaydalovskaya St., 37, Chita",
-    "phone1": "+7 (3022) 217856",
-    "phone2": "+79294830255"
-  },
-  "contayner": {
-    "bay": "Baikal",
-    "description": "A cozy hotel close to nature: comfortable rooms, a warm atmosphere, and everything you need to relax. Book in minutes and enjoy your trip with no extra worries.",
-    "bookBtn": "Book now",
-    "imageAlt": "Hotel image",
-
-    "successTitle": "Thanks for your request!",
-    "checkAlt": "Request confirmed",
-
-    "formTitle": "Fill out the form!",
-    "formDesc": "Our specialist will contact you as soon as possible.",
-    "namePlaceholder": "Your name:",
-    "phonePlaceholder": "Phone:",
-    "commentPlaceholder": "Comment:",
-    "sendBtn": "Send",
-
-    "fillAllFields": "Please fill in all fields."
-  },
-  "contatnear2": {
-    "title": "About the hotel",
-    "imageAlt": "Hotel illustration",
-    "text1": "Our hotel is designed for a calm and comfortable stay at any time of the year. Spacious rooms, cleanliness, quiet surroundings, and attentive service help you feel relaxed and welcome from the very first moments.",
-    "text2": "We carefully thought through every detail to make your stay as convenient as possible. A good location, a pleasant atmosphere, and friendly staff create a truly comfortable and enjoyable experience."
-  },
-  "contayner3": {
-    "title": "We offer",
-    "imgAlt": "Service icon",
-
-    "wifi": {
-      "title": "Free Wi-Fi",
-      "desc": "Fast and stable internet throughout the hotel."
-    },
-    "access": {
-      "title": "24/7 Access",
-      "desc": "Check in and out at any time of the day or night."
-    },
-    "tv": {
-      "title": "TV",
-      "desc": "Modern TVs with essential channels in every room."
-    },
-    "parking": {
-      "title": "Parking",
-      "desc": "Convenient and secure parking for hotel guests."
-    },
-    "cleaning": {
-      "title": "Wet cleaning",
-      "desc": "Regular room cleaning to keep everything fresh and tidy."
-    },
-    "laundry": {
-      "title": "Bath & laundry complex",
-      "desc": "A place to relax and take care of your clothes."
-    },
-    "kitchen": {
-      "title": "Private kitchen",
-      "desc": "A fully equipped kitchen for self-cooking."
-    },
-    "banquet": {
-      "title": "Banquet hall",
-      "desc": "A spacious hall for events, celebrations, and meetings."
-    },
-    "canteen": {
-      "title": "Spacious canteen",
-      "desc": "A comfortable dining area for pleasant meals."
-    }
-  },
-   "conteynear4": {
-    "title": "Our rooms",
-    "priceLabel": "Price",
-    "iconAlt": "Icon",
-    "boyAlt": "Boy",
-    "girlAlt": "Girl",
-    "features": {
-      "shower": "Shower",
-      "bed": "Bed",
-      "tv": "TV",
-      "wifi": "Wi-Fi",
-      "extra": "Extra services",
-      "special": "Special services"
-    },
-    "single": {
-      "title": "Single room",
-      "price": "1000₽/night"
-    },
-    "double": {
-      "title": "Double room",
-      "price": "2000₽/night"
-    }
-  },
-  "contaynear5": {
-    "title": "Guest reviews",
-    "userAlt": "Guest",
-
-    "user1": {
-      "name": "Ivan",
-      "text": "I stayed here for a few days and really enjoyed it. Clean rooms, quiet nights, and a very friendly staff."
-    },
-    "user2": {
-      "name": "Ivan",
-      "text": "A great place to rest after a long trip. Comfortable beds and a calm, relaxing atmosphere."
-    },
-    "user3": {
-      "name": "Ivan",
-      "text": "I was pleasantly surprised by the price-quality balance. Everything worked perfectly, and the room was clean."
-    },
-    "user4": {
-      "name": "Ivan",
-      "text": "A cozy hotel where you feel relaxed and welcome. I would definitely stay here again."
-    }
-  },
-"conteynear6": {
-    "title": "Contacts",
-    "mapAlt": "Location map",
-    "addressLabel": "Address:",
-    "address": "Kaydalovskaya St., 37, Chita",
-    "phone1": "+7 (3022) 217856",
-    "phone2": "+7 929 483-02-55"
+    "navHome": "Home"
   },
   "footer": {
     "logoAlt": "Hotel logo",
@@ -138,19 +12,14 @@
       "rooms": "Rooms",
       "reviews": "Reviews"
     },
-    "quick": {
-      "title": "Quick contact",
-      "book": "Book now",
-      "callback": "Request a call"
-    },
+    
     "contacts": {
       "title": "Contacts",
       "addressLabel": "Address:",
       "address": "Kaydalovskaya St., 37, Chita",
       "phone1": "+7 (3022) 217856",
       "phone2": "+7 929 483-02-55"
-    },
-    "copyright": "© All rights reserved."
+    }
   }
 }
 
