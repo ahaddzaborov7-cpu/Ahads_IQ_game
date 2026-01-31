@@ -14,7 +14,7 @@ const Game = () => {
     setGameMode(false);
   };
   return (
-    <div className="w-full min-h-84 h-fit bg-white dark:bg-gray-600">
+    <div className="w-full min-h-84 h-fit bg-white dark:bg-gray-600 py-10">
       {starter && (
         <div className="w-fit m-auto transition">
           <button className="w-fit" onClick={startGame}>
